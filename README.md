@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,docker,postgres,git,linux" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,docker,postgres,git,linux" alt="skills" />
 </p>
 
 <h2 align="center">🚀 Focus Areas</h2>
