@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khushboo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Python+%7C+Django+Enthusiast;System+Design+%7C+DSA;Docker+%7C+PostgreSQL&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Python+%26+Django+Enthusiast;System+Design+%26+DSA;Docker+%26+PostgreSQL&center=true&width=600&height=50&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
 </p>
 
 <p align="center">
