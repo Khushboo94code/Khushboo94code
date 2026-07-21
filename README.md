@@ -1,23 +1,41 @@
-# Hi, I'm Khushboo 👋
+<h1 align="center">Hi, I'm Khushboo 👋</h1>
 
-### Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Python+%7C+Django+Enthusiast;System+Design+%7C+DSA;Docker+%7C+PostgreSQL&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=24" alt="Typing SVG" />
+</p>
 
-I build backend systems with Python and Django, and I enjoy designing scalable, well-structured applications.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" alt="coding gif" />
+</p>
 
-## What I Work With
+<p align="center">
+  I build backend systems with Python and Django, and I enjoy designing scalable, well-structured applications.
+</p>
 
-- **Languages & Frameworks:** Python, Django
-- **System Design:** Building scalable and maintainable systems
-- **Data Structures & Algorithms (DSA):** Problem solving and optimization
-- **Containerization:** Docker
-- **Databases:** SQL — PostgreSQL
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## Focus Areas
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+</p>
 
-- Django & Python backend development
-- System design
-- Data Structures & Algorithms
-- Docker & containerized workflows
-- Databases with PostgreSQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,docker,postgres,git,linux" alt="skills" />
+</p>
 
-_Always learning, always building._
+<h2 align="center">🚀 Focus Areas</h2>
+
+<p align="center">
+  🐍 Django &amp; Python backend development &nbsp;•&nbsp; 🏗️ System design &nbsp;•&nbsp; 🧠 Data Structures &amp; Algorithms &nbsp;•&nbsp; 🐳 Docker &amp; containers &nbsp;•&nbsp; 🗄️ PostgreSQL
+</p>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushboo94code&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center"><i>Always learning, always building.</i></p>
