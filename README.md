@@ -31,10 +31,9 @@
   🐍 Django &amp; Python backend development &nbsp;•&nbsp; 🏗️ System design &nbsp;•&nbsp; 🧠 Data Structures &amp; Algorithms &nbsp;•&nbsp; 🐳 Docker &amp; containers &nbsp;•&nbsp; 🗄️ PostgreSQL
 </p>
 
-<h2 align="center">🔥 GitHub Streak</h2>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushboo94code&background=FFF7E6&border=FFB84C&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=306998&currStreakNum=222222&sideNums=222222&dates=888888&hide_border=false" alt="streak" />
+  <img src="https://img.shields.io/badge/Let's_Connect-FF6B6B?style=for-the-badge" alt="connect" />
+  <img src="https://komarev.com/ghpvc/?username=Khushboo94code&label=Profile+Views&color=FFB84C&style=for-the-badge" alt="views" />
 </p>
 
 <p align="center"><i>Always learning, always building.</i></p>
