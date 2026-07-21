@@ -34,7 +34,7 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushboo94code&theme=sunset-gradient&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushboo94code&background=FFF7E6&border=FFB84C&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=306998&currStreakNum=222222&sideNums=222222&dates=888888&hide_border=false" alt="streak" />
 </p>
 
 <p align="center"><i>Always learning, always building.</i></p>
