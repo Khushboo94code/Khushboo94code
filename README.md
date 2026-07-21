@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" alt="coding gif" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" alt="developer" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="360" alt="developer" />
 </p>
 
 <p align="center">
